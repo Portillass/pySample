@@ -13,7 +13,6 @@ HTML_PAGE = """
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
-    <!-- Header -->
     <header>
         <div class="container">
             <nav>
@@ -34,6 +33,8 @@ HTML_PAGE = """
             </nav>
         </div>
     </header>
+
+
 
     <!-- Home Section -->
     <section id="home">
@@ -303,7 +304,7 @@ HTML_PAGE = """
                         <div class="icon"><i class="fas fa-envelope"></i></div>
                         <div class="text">
                             <h3>Email</h3>
-                            <p>jarell.portillas@example.com</p>
+                            <p>portillasjep@gmail.com</p>
                         </div>
                     </div>
                     <div class="contact-item">
